@@ -36,7 +36,7 @@ I'm a passionate Fullstack Developer with a diverse skill set. Over time, I've h
 
 Feel free to reach out if you have any questions, want to discuss collaboration, or just chat about tech!
 
-- Telegram: [@kenzos2](https://t.me/kenzos2)
+- Telegram: [@kenzosDev]([https://t.me/kenzosDev])
 - Email: kenzo071@mail.ru
 
 ## 🌐 GitHub Stats
