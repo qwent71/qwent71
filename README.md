@@ -16,7 +16,8 @@ I'm a passionate Fullstack Developer with a diverse skill set. Over time, I've h
 - **Redis:** Experience in utilizing caching solutions for optimized performance.
 
 ### Messaging
-- **Brokers:** Proficient in working with RabbitMQ, ensuring reliable message delivery.
+- **Brokers:** 
+- **Kafka:** 
 
 ### Version Control
 - **Git:** Proficient in using Git for version control, with experience on both GitHub and self-hosted Gitlab.
